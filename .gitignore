@@ -13,5 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-# Assets
+# Online/Offline available assets
 Content/StarterContent/
+Content/UFOGameDemo/
+Content/GameJamKit/
+Content/2DSideScroller/
