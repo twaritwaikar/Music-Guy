@@ -4,7 +4,7 @@ Music Guy is a action/rhythm game based on mimicing the beat makeup of a song wh
 
 This was supposed to be my submission for [Jim Jam #2](https://itch.io/jam/jimjam-2).
 
-## Tech-Stack
+## Tech Stack
 
 * Unreal Engine 4.18
 
